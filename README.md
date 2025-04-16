@@ -11,4 +11,4 @@ goto.run("awa")
 print(random.randint(1,3))
 print(random.randint(1,3))
 ```
-怎么样，是不是实现了goto的功能？快去和那些和您一样喜欢使用goto的go们分享吧！
+怎么样，是不是实现了goto的功能？快去和那些和您一样喜欢使用goto的伙计们分享吧！
