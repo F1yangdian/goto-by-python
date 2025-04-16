@@ -42,3 +42,5 @@ def init():
 
 def strcmd(cmd):
     exec(cmd,inspect.currentframe().f_back.f_globals)
+    
+init()
